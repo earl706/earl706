@@ -2,7 +2,7 @@
 
 🎓 **Applied Physics student** at the University of Science and Technology of Southern Philippines  
 💻 Aspiring **Computational Physicist** & **Software Engineer**  
-🌊 Currently building **STORM** 🌦️ — a Physics-Informed Flood & Weather Prediction Platform  
+🌊 Currently building **STORM** 🌦️ : a Physics-Informed Flood & Weather Prediction Platform  
 ⚡ Exploring **FDTD, PINNs, and Machine Learning for Physics simulations**  
 
 ---
@@ -26,7 +26,7 @@
 ---
 
 ## 🚀 Current Projects  
-- 🌊 **[STORM](https://github.com/earl706/storm-admin-panel)** – Flood & Weather Prediction with IoT + Physics-Informed ML  
+- 🌊 **[STORM](https://github.com/earl706/storm-admin-panel)** : Flood & Weather Prediction with Physics-Informed ML  
 
 ---
 
